@@ -36,7 +36,7 @@ Este es un proyecto de práctica profesional para desarrollar una API RESTful ro
 ### 2. Clonar y Preparar
 ```bash
 # Clonar repositorio
-git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+git clone https://github.com/jesusdavid31/node-rest-api.git
 
 # Entrar a la carpeta
 cd postgresql-node-restapi
